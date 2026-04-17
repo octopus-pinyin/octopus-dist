@@ -8,7 +8,7 @@
 
 # 安装包介绍
 
-## OctopusPinyinSetup-v2-0-0.exe
+## OctopusPinyinSetup-v2-0-0-win11-x64.exe
 
 * 操作系统： windows 11
 * 硬件平台： x64
